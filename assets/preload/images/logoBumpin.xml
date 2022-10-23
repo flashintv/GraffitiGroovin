@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="logoBumpin.png" width="6596" height="891">
+  <SubTexture name="logo bumping0000" x="5341" y="1"  width="1254" height="773" frameX="-149" frameY="-106" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0001" x="1" y="1"  width="1426" height="889" frameX="-60" frameY="-49" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0002" x="1" y="1"  width="1426" height="889" frameX="-60" frameY="-49" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0003" x="1429" y="1"  width="1336" height="827" frameX="-107" frameY="-79" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0004" x="1429" y="1"  width="1336" height="827" frameX="-107" frameY="-79" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0005" x="2767" y="1"  width="1287" height="795" frameX="-132" frameY="-95" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0006" x="2767" y="1"  width="1287" height="795" frameX="-132" frameY="-95" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0007" x="4056" y="1"  width="1283" height="791" frameX="-134" frameY="-97" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0008" x="4056" y="1"  width="1283" height="791" frameX="-134" frameY="-97" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0009" x="4056" y="1"  width="1283" height="791" frameX="-134" frameY="-97" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0010" x="4056" y="1"  width="1283" height="791" frameX="-134" frameY="-97" frameWidth="1606" frameHeight="975"/>
+  <SubTexture name="logo bumping0011" x="4056" y="1"  width="1283" height="791" frameX="-134" frameY="-97" frameWidth="1606" frameHeight="975"/>
+</TextureAtlas>

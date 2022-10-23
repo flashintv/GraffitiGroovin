@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="art.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="art white0000" x="2" y="136" width="401" height="123" frameX="-1" frameY="-1" frameWidth="405" frameHeight="126"/>
+	<SubTexture name="art white0001" x="436" y="129" width="403" height="125" frameX="-1" frameY="0" frameWidth="405" frameHeight="126"/>
+	<SubTexture name="art white0002" x="436" y="2" width="405" height="125" frameX="0" frameY="-1" frameWidth="405" frameHeight="126"/>
+	<SubTexture name="art black0000" x="2" y="2" width="432" height="132"/>
+</TextureAtlas>

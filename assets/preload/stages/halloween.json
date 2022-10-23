@@ -1,0 +1,15 @@
+{
+	"directory": "halloween",
+	"defaultZoom": 0.75,
+	"isPixelStage": false,
+
+	"boyfriend": [690, 100],
+	"girlfriend": [4000, 130],
+	"opponent": [-180, 220],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [150, 150],
+	"camera_opponent": [40, 0],
+	"camera_girlfriend": [600, 400],
+	"camera_speed": 1
+}

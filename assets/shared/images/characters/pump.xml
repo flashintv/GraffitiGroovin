@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pump.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="1356" y="753" width="286" height="371" frameX="-11" frameY="0" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0001" x="1356" y="753" width="286" height="371" frameX="-11" frameY="0" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0002" x="1338" y="1526" width="286" height="367" frameX="-8" frameY="-4" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0003" x="1338" y="1526" width="286" height="367" frameX="-8" frameY="-4" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0004" x="1423" y="2" width="291" height="369" frameX="-2" frameY="-2" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0005" x="1423" y="2" width="291" height="369" frameX="-2" frameY="-2" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0006" x="1356" y="382" width="292" height="369" frameX="-1" frameY="-2" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0007" x="1356" y="382" width="292" height="369" frameX="-1" frameY="-2" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0008" x="1338" y="1154" width="293" height="370" frameX="0" frameY="-1" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0009" x="1338" y="1154" width="293" height="370" frameX="0" frameY="-1" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0010" x="1338" y="1154" width="293" height="370" frameX="0" frameY="-1" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0011" x="1338" y="1154" width="293" height="370" frameX="0" frameY="-1" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0012" x="1338" y="1154" width="293" height="370" frameX="0" frameY="-1" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="idle0013" x="1338" y="1154" width="293" height="370" frameX="0" frameY="-1" frameWidth="297" frameHeight="371"/>
+	<SubTexture name="pump_down0000" x="670" y="1496" width="342" height="363" frameX="-27" frameY="0" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0001" x="670" y="1496" width="342" height="363" frameX="-27" frameY="0" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0002" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0003" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0004" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0005" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0006" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0007" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0008" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0009" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0010" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0011" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_down0012" x="2" y="745" width="363" height="358" frameX="0" frameY="-4" frameWidth="369" frameHeight="363"/>
+	<SubTexture name="pump_left0000" x="2" y="377" width="385" height="366" frameX="0" frameY="-7" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0001" x="2" y="377" width="385" height="366" frameX="0" frameY="-7" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0002" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0003" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0004" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0005" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0006" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0007" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0008" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0009" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_left0010" x="2" y="2" width="380" height="373" frameX="-11" frameY="0" frameWidth="391" frameHeight="373"/>
+	<SubTexture name="pump_right0000" x="389" y="357" width="374" height="353" frameX="-8" frameY="-1" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0001" x="389" y="357" width="374" height="353" frameX="-8" frameY="-1" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0002" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0003" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0004" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0005" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0006" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0007" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0008" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0009" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0010" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0011" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0012" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_right0013" x="384" y="2" width="376" height="353" frameX="0" frameY="0" frameWidth="382" frameHeight="354"/>
+	<SubTexture name="pump_up0000" x="2" y="1497" width="292" height="434" frameX="-9" frameY="0" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0001" x="2" y="1497" width="292" height="434" frameX="-9" frameY="0" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0002" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0003" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0004" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0005" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0006" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0007" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0008" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0009" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="pump_up0010" x="389" y="712" width="307" height="424" frameX="0" frameY="-8" frameWidth="307" frameHeight="434"/>
+	<SubTexture name="stare idle0000" x="296" y="1530" width="322" height="378"/>
+	<SubTexture name="stare idle0001" x="296" y="1530" width="322" height="378"/>
+	<SubTexture name="stare idle0002" x="1014" y="1496" width="322" height="378"/>
+	<SubTexture name="stare idle0003" x="1014" y="1496" width="322" height="378"/>
+	<SubTexture name="stare idle0004" x="1032" y="394" width="322" height="378"/>
+	<SubTexture name="stare idle0005" x="1032" y="394" width="322" height="378"/>
+	<SubTexture name="stare idle0006" x="1099" y="2" width="322" height="378"/>
+	<SubTexture name="stare idle0007" x="1099" y="2" width="322" height="378"/>
+	<SubTexture name="stare idle0008" x="1032" y="774" width="322" height="378"/>
+	<SubTexture name="stare idle0009" x="1032" y="774" width="322" height="378"/>
+	<SubTexture name="stare idle0010" x="1032" y="774" width="322" height="378"/>
+	<SubTexture name="stare idle0011" x="1032" y="774" width="322" height="378"/>
+	<SubTexture name="stare idle0012" x="1032" y="774" width="322" height="378"/>
+	<SubTexture name="stare idle0013" x="1032" y="774" width="322" height="378"/>
+	<SubTexture name="stare switch0000" x="2" y="1105" width="332" height="390"/>
+	<SubTexture name="stare switch0001" x="2" y="1105" width="332" height="390"/>
+	<SubTexture name="stare switch0002" x="698" y="712" width="332" height="390"/>
+	<SubTexture name="stare switch0003" x="698" y="712" width="332" height="390"/>
+	<SubTexture name="stare switch0004" x="765" y="2" width="332" height="390"/>
+	<SubTexture name="stare switch0005" x="765" y="2" width="332" height="390"/>
+	<SubTexture name="stare switch0006" x="698" y="1104" width="332" height="390"/>
+	<SubTexture name="stare switch0007" x="698" y="1104" width="332" height="390"/>
+	<SubTexture name="stare switch0008" x="336" y="1138" width="332" height="390"/>
+	<SubTexture name="stare switch0009" x="336" y="1138" width="332" height="390"/>
+	<SubTexture name="stare switch0010" x="336" y="1138" width="332" height="390"/>
+	<SubTexture name="stare switch0011" x="336" y="1138" width="332" height="390"/>
+	<SubTexture name="stare switch0012" x="336" y="1138" width="332" height="390"/>
+	<SubTexture name="stare switch0013" x="336" y="1138" width="332" height="390"/>
+</TextureAtlas>

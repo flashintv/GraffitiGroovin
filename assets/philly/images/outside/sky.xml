@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky0000" x="0" y="0" width="2640" height="1475"/>
+	<SubTexture name="sky0001" x="0" y="0" width="2640" height="1475"/>
+	<SubTexture name="sky0002" x="2640" y="0" width="2640" height="1473" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0003" x="2640" y="0" width="2640" height="1473" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0004" x="5280" y="0" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0005" x="5280" y="0" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0006" x="0" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0007" x="0" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0008" x="2640" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0009" x="2640" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0010" x="2640" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0011" x="2640" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0012" x="2640" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+	<SubTexture name="sky0013" x="2640" y="1475" width="2640" height="1472" frameX="0" frameY="0" frameWidth="2640" frameHeight="1475"/>
+</TextureAtlas>

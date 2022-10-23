@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doors6.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOORS CLOSING  60000" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS CLOSING  60001" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS CLOSING  60002" x="449" y="0" width="448" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60003" x="449" y="0" width="448" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60004" x="897" y="0" width="445" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60005" x="897" y="0" width="445" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60006" x="1342" y="0" width="440" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60007" x="1342" y="0" width="440" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60008" x="1782" y="0" width="433" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60009" x="1782" y="0" width="433" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60010" x="2215" y="0" width="424" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60011" x="2215" y="0" width="424" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60012" x="2639" y="0" width="412" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60013" x="2639" y="0" width="412" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60014" x="3051" y="0" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60015" x="3051" y="0" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60016" x="3456" y="0" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60017" x="3456" y="0" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60018" x="0" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60019" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60020" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60021" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60022" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60023" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60024" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60025" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60026" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60027" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60028" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60029" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60030" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60031" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60032" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60033" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60034" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60035" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60036" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60037" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60038" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60039" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60040" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60041" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60042" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60043" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60044" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60045" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60046" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60047" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60048" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60049" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60050" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60051" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60052" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60053" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60054" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60055" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60056" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60057" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60058" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60059" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60060" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60061" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60062" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60063" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60064" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS CLOSING  60065" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60000" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60001" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60002" x="405" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60003" x="810" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60004" x="810" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60005" x="1215" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60006" x="1215" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60007" x="1620" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60008" x="1620" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60009" x="2025" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60010" x="2025" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60011" x="2430" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60012" x="2430" y="328" width="405" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60013" x="2835" y="328" width="415" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60014" x="2835" y="328" width="415" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60015" x="3250" y="328" width="428" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60016" x="3250" y="328" width="428" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60017" x="0" y="656" width="438" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60018" x="0" y="656" width="438" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60019" x="438" y="656" width="445" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60020" x="883" y="656" width="445" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60021" x="1328" y="656" width="448" height="328" frameX="0" frameY="0" frameWidth="449" frameHeight="328"/>
+	<SubTexture name="DOORS OPENING 60022" x="1776" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60023" x="1776" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60024" x="2225" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60025" x="2225" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60026" x="2225" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60027" x="2674" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60028" x="2674" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60029" x="2674" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60030" x="3123" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60031" x="3123" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60032" x="3572" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60033" x="3572" y="656" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60034" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60035" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60036" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60037" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60038" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60039" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60040" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60041" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60042" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60043" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60044" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60045" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60046" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60047" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60048" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60049" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60050" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60051" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60052" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60053" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60054" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60055" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60056" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60057" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60058" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60059" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60060" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60061" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60062" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60063" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60064" x="0" y="0" width="449" height="328"/>
+	<SubTexture name="DOORS OPENING 60065" x="0" y="0" width="449" height="328"/>
+</TextureAtlas>

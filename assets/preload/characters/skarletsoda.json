@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skarlet_idle"
+		},
+		{
+			"offsets": [
+				-16,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skarlet_left"
+		},
+		{
+			"offsets": [
+				20,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skarlet_down"
+		},
+		{
+			"offsets": [
+				-77,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skarlet_right"
+		},
+		{
+			"offsets": [
+				-29,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skarlet_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				85
+			],
+			"anim": "open",
+			"fps": 24,
+			"name": "skarlet_open",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				501,
+				434
+			],
+			"anim": "drink",
+			"fps": 24,
+			"name": "skarlet_open",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skarlet_soda",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "skarlet",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		47,
+		106
+	],
+	"camera_position": [
+		-170,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
